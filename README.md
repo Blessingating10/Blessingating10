@@ -21,6 +21,6 @@ Welcome to my Github Profile! I am a Passionate Business Analyst with a strong f
 ---
 ## Let's Connect
 - [linkedin](https://www.linkedin.com/in/blessing-ating-6aa23a73)
-- [Email](blessating@yahoo.com)
+- [Email](https://blessating@yahoo.com)
 
 Feel free to explore my repositories and connect with me
